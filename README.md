@@ -1,3 +1,3 @@
 # hooks
 
-![Build status](https://d6930285.ngrok.io)
+![Build status](https://2da86d9a.ngrok.io)
